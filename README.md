@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @Abi2006-gael...
-- 🌱 I’m currently learning ...
-....
-- 😄 Pronouns: . family first..
-- ⚡ Fun fact: ...God siku zombo
-
-<!---![Uploading IMG_20250220_091505.jpg…]()
-
-Abi2006-gael/Abi2006-gael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+.
 --->
+README.mdHi 👋 My nHi 👋 My name is Abigael wanjiku Maina ======================================  Web developer and designer --------------------------  I am currently studying computer programing.am also a digital marketer and a graphic designer.  * 🌍  I'm based in Kenya * ✉️  You can contact me at [@abimaina.gmail.com](mailto:@abimaina.gmail.com) * 🧠  I'm learning Computer programing * 🤝  I'm open to collaborating on Interesting project * ⚡  I believe in Jesusame is Abigael wanjiku Maina ======================================  Web developer and designer --------------------------  I am currently studying computer programing.am also a digital marketer and a graphic designer.  * 🌍  I'm based in Kenya * ✉️  You can contact me at [@abimaina.gmail.com](mailto:@abimaina.gmail.com) * 🧠  I'm learning Computer programing * 🤝  I'm open to collaborating on Interesting project * ⚡  I believe in Jesus
